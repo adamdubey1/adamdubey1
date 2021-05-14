@@ -1,4 +1,6 @@
-### Hi there 👋
+# Yo! 🖖
+
+I'm Adam Dubey - you can find my personal Github Profile [here](https://github.com/adamdubey), where most of all the fun scripts and toys are kept!
 
 <!--
 **adamdubey1/adamdubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
